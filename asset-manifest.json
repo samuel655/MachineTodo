@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MachineTodo/static/css/main.02b30f03.css",
+    "main.js": "/MachineTodo/static/js/main.595298f8.js",
+    "index.html": "/MachineTodo/index.html",
+    "static/media/delete.svg": "/MachineTodo/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
+    "static/media/check.svg": "/MachineTodo/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
+    "main.02b30f03.css.map": "/MachineTodo/static/css/main.02b30f03.css.map",
+    "main.595298f8.js.map": "/MachineTodo/static/js/main.595298f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b30f03.css",
+    "static/js/main.595298f8.js"
+  ]
+}
