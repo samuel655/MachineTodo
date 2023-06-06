@@ -31,7 +31,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "HTTPS://samuel655.github.io/MachineTodo",
+  "homepage": "https://samuel655.github.io/MachineTodo",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
