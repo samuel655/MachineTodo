@@ -1,4 +1,4 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Aplicación web TODOapp
 
 ¡Hola, Platzinauta!
 
